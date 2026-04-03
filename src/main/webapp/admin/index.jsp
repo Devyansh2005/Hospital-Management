@@ -1,3 +1,4 @@
+<%@page import="com.entity.Doctor"%>
 <%@page import="com.entity.Appointment"%>
 <%@page import="java.util.List"%>
 <%@page import="com.entity.User"%>
