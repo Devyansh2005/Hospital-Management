@@ -20,7 +20,7 @@ public class SpecialistDao {
 	public boolean addSpecialist(String spec) {
 		boolean f = false;
 		try {
-			String sql = "insert into specialistResource(spec_name) values(?)";
+			String sql = "insert into specialist(spec_name) values(?)";
 			PreparedStatement ps = conn.prepareStatement(sql);
 			ps.setString(1, spec);
 
