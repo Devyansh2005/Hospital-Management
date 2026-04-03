@@ -92,4 +92,19 @@ public class UserDao {
 		}
 		return f;
 	}
+
+	public int countUser() {
+		int i = 0;
+		try {
+			String sql = "select * from user";
+			PreparedStatement ps = conn.prepareStatement(sql);
+			ResultSet rs = ps.executeQuery();
+			while (rs.next()) {
+				i++;
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return i;
+	}
 }

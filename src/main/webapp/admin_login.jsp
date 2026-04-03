@@ -35,7 +35,12 @@
 								<label class="form-label">Password</label> <input required
 									name="password" type="password" class="form-control">
 							</div>
-							<button type="submit" class="btn btn-primary col-md-12">Login</button>
+							<div class="text-center mt-3">
+								<button type="submit" class="btn btn-primary btn-lg w-100 fw-bold">Login</button>
+							</div>
+							<div class="mt-4 text-center">
+								<span class="text-muted small">Sample Admin: <span class="fw-bold">admin@gmail.com</span> / <span class="fw-bold">admin</span></span>
+							</div>
 						</form>
 					</div>
 				</div>

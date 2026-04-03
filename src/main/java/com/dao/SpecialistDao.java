@@ -60,4 +60,18 @@ public class SpecialistDao {
 		return list;
 	}
 
+	public int countSpecialist() {
+		int i = 0;
+		try {
+			String sql = "select * from specialist";
+			PreparedStatement ps = conn.prepareStatement(sql);
+			ResultSet rs = ps.executeQuery();
+			while (rs.next()) {
+				i++;
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return i;
+	}
 }
