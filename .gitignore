@@ -1,1 +1,8 @@
-/target/
+target/
+*.war
+*.zip
+.settings/
+.classpath
+.project
+.vscode/
+bin/
