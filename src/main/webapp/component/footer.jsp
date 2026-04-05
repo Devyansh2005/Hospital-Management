@@ -60,7 +60,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 mb-5">
-                <div class="footer-heading"><i class="fas fa-hospital-symbol me-2"></i>HOSPITAL</div>
+                <div class="footer-heading"><i class="fas fa-bolt-lightning me-2"></i>DIABLO</div>
                 <p class="pe-md-5 text-slate-400" style="color: #64748b;">
                     Providing world-class healthcare with modern technology and a human touch. Our mission is to combine medical excellence with a compassionate patient experience.
                 </p>
@@ -92,12 +92,12 @@
                 <div class="footer-heading">CONTACT</div>
                 <p class="text-slate-400" style="color: #94a3b8;"><i class="fas fa-map-marker-alt me-2 text-primary"></i> 123 Health Ave, Medicity</p>
                 <p class="text-slate-400" style="color: #94a3b8;"><i class="fas fa-phone-alt me-2 text-primary"></i> +1 (234) 567 890</p>
-                <p class="text-slate-400" style="color: #94a3b8;"><i class="fas fa-envelope me-2 text-primary"></i> contact@hospital.com</p>
+                <p class="text-slate-400" style="color: #94a3b8;"><i class="fas fa-envelope me-2 text-primary"></i> contact@diablohospitals.com</p>
             </div>
         </div>
         
         <div class="footer-bottom">
-            <p>&copy; 2026 HOSPITAL. ALL RIGHTS RESERVED. DESIGNED FOR EXCELLENCE.</p>
+            <p>&copy; 2026 DIABLO HOSPITALS. ALL RIGHTS RESERVED. DESIGNED FOR EXCELLENCE.</p>
         </div>
     </div>
 </footer>

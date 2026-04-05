@@ -15,7 +15,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Admin Dashboard - HOSPITAL</title>
+<title>Admin Dashboard - DIABLO HOSPITALS</title>
 <%@include file="../component/all_css_js.jsp"%>
 <style type="text/css">
 .admin-stats-container {

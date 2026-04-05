@@ -32,7 +32,7 @@
 <nav class="navbar navbar-expand-lg navbar-light glass-nav sticky-top py-3">
 	<div class="container">
 		<a class="navbar-brand fw-bold" href="index.jsp">
-			<i class="fas fa-hospital-symbol me-2"></i>HOSPITAL
+			<i class="fas fa-bolt-lightning me-2"></i>DIABLO
 		</a>
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
 			data-bs-target="#navbarSupportedContent"

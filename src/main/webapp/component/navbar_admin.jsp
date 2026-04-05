@@ -2,7 +2,7 @@
 <%@page isELIgnored="false"%>
 <nav class="navbar navbar-expand-lg navbar-dark bg-info p-3 shadow-sm">
 	<div class="container-fluid">
-		<a class="navbar-brand fw-bold" href="index.jsp"><i class="fas fa-hospital-user"></i> HOSPITAL ADMIN</a>
+		<a class="navbar-brand fw-bold" href="index.jsp"><i class="fas fa-bolt-lightning"></i> DIABLO ADMIN</a>
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
 			data-bs-target="#navbarSupportedContent"
 			aria-controls="navbarSupportedContent" aria-expanded="false"

@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>HOSPITAL - Premium Healthcare</title>
+<title>DIABLO HOSPITALS - Premium Healthcare</title>
 <%@include file="component/all_css_js.jsp"%>
 <style>
 /* Additional Inline Styles for the Bento Grid */
@@ -88,7 +88,7 @@
 			<div class="row align-items-center">
 				<div class="col-md-6" data-aos="fade-right">
 					<span class="badge rounded-pill bg-info bg-opacity-10 text-info px-4 py-2 mb-4 fs-6 fw-bold">WORLD CLASS HEALTHCARE</span>
-					<h1 class="display-3 fw-bold mb-4" style="line-height: 1.1;">WELCOME TO HOSPITAL</h1>
+					<h1 class="display-3 fw-bold mb-4" style="line-height: 1.1;">WELCOME TO DIABLO HOSPITALS</h1>
 					<p class="fs-5 text-slate-500 mb-5 pe-md-5" style="color: #64748b;">Experience premium medical care integrated with high-end technology and personalized patient services. We are dedicated to your well-being.</p>
 					<div class="d-flex gap-3">
 						<a href="user_appointment.jsp" class="btn btn-primary btn-lg px-5">Book Appointment</a>
