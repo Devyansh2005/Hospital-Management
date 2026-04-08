@@ -1,6 +1,6 @@
 # Hospital Management System - Premium Redesign
 
-A feature-rich, professional Hospital Management System built with Java, Servlets, and JSP, featuring a high-end "Google-style" aesthetic.
+A feature-rich, professional Hospital Management System built with Java, Servlets, and JSP, featuring a high-end interface.
 
 ## 🚀 Vision
 This project transforms a functional medical management prototype into a world-class digital experience. It combines robust backend logic with a modern, glassmorphic UI to provide a seamless interaction for patients, doctors, and administrators.
