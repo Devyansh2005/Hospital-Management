@@ -30,7 +30,7 @@ This project transforms a functional medical management prototype into a world-c
 ## ⚙️ Getting Started
 
 ### 1. Database Setup
-- Import the provided `database.sql` into your MySQL server.
+- Import the provided `database.sql` into your MySQL server
 - Ensure your database credentials in `com.db.DBConnect` match your environment.
 
 ### 2. Local Deployment
